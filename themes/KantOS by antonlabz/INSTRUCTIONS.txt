@@ -11,3 +11,5 @@ To use the minimal version of the theme:
 - copy the images inside the 'minimal-alt' folder
 - paste them into the 'skin' folder and replace the existing ones
 - install the theme as normal
+
+For all updates, visit the repo here: https://github.com/antonlabz/KantOS
